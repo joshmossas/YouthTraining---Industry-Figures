@@ -1,3 +1,5 @@
+Here is a collection of resources and statistics regarding the entertainment and media industries. The numbers vary from study to study, but they should give you a general idea about the trends and directions the finances of the industry are headed in.
+
 # Table of Contents
 
 [Us Entertainment Industry (Statista Figures)](#US-entertainment-industry-total-estimated-value-in-billions)
@@ -18,16 +20,16 @@ This timeline presents the value of the U.S. entertainment and media market from
 The entertainment and media market encompasses every broadcasting medium from newspapers, magazines, TV and radio and popular forms of entertainment such as film, music and books.
 
 ## Recorded Figures
-| year | value ($) |
+| year | value (in billions) |
 | ---- | --------- |
 | 2011 | 496.39 |
 | 2012 | 520.24 |
 | 2013 | 545.19 |
 | 2014 | 573.57 |
 
-## Recorded Figures
+## Projected Figures
 
-| year | value ($) |
+| year | value (in billions) |
 |------|-----------|
 | 2015 | 602.97* |
 | 2016 | 630.71* |
