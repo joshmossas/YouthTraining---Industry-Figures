@@ -11,6 +11,10 @@ Here is a collection of resources and statistics regarding the entertainment and
 - [Book Industry](#book-sales)
 - [Video Game Industry](#video-game-sales)
 
+[US Film Industry](#us-film-industry)
+
+[Video Game Industry](#video-game-industry)
+
 [US Radio Industry](#us-radio-industry)
 
 # US Entertainment Industry Total Estimated Value (In Billions)
@@ -100,14 +104,56 @@ Electronic sports, also known as "eSports" or "e-sports", includes professional 
 
 source: [SelectUSA.gov](https://www.selectusa.gov/media-entertainment-industry-united-states)
 
+# US Film Industry
+
+The Movie and Video Production industry has grown moderately over the five years to 2017, benefiting from steady demand for entertainment but challenged by disruption to its traditional distribution channels. Box office sales have grown sluggishly, mainly as a result of higher ticket prices rather than increased attendance. Studios are placing bigger bets on action movies, especially in on-trend genres such as superhero films, which bring both domestic consumers to theaters and have staying power in foreign markets. The focus on blockbusters has improved profit over the past five years. However, in the coming years it will make studios more vulnerable to profit losses, given the fast-changing nature of consumer tastes
+
+| | |
+|--|--|
+| Revenue | $43 billion |
+| Annual Growth (2012-2017) | 2.2% |
+| Employment | 92,362 |
+| Businesses | 10,318 |
+
+## Revenue Market Share
+
+Five major studios control almost four-fifths of total film industry revenue
+
+| Company | Percent | Revenue |
+|--|--|--|
+| Total Revenue | | $43 billion |
+| Disney | 18.2% | $7.83 billion |
+| NBC Universal | 16.4% | $7.05 billion |
+| Time Warner | 16.2% | $6.97 billion |
+| 21st Century Fox | 12.9% | $5.55 billion |
+| Sony | 12.1% | $5.2 billion |
+
+## Other Facts
+
+- Average film industry worker makes more than $84,000 year
+- Industry provided $7.8 billion in wages in 2017
+- Wages are film industries 2nd largest cost accounting for 18% or revenue
+
+A report from IBISworld ahad a warning about the industry’s “increased reliance on blockbusters,” which it said could prove “a vulnerability” in the years ahead.
+
+- 54.1% of 2017 films were "action and adventure films"
+- 7.6% were comedies
+- 15.1% were "thriller/suspense"
+- 12% were "dramas"
+- 11% were "other"
+
+Sources: 
+
+- [ibisworld.com](https://www.ibisworld.com/industry-trends/market-research-reports/information/motion-picture-sound-recording-industries/movie-video-production.html)
+- [deadline.com](https://deadline.com/2018/07/film-industry-revenue-2017-ibisworld-report-gloomy-box-office-1202425692/)
+
 # Video Game Industry
 
-- The video game industry is growing with new products and technology and __could be worth nearly $138 billion in 2018.__ [2]
-- Gamers will spend more than $138 Billion on games this year, a 13.3 percent increase [1]
+- Gamers will spend __more than $138 Billion on games this year__, a 13.3 percent increase [2]
 - Epic Games developer of Fortnite annouced it made more than $1 billion from in-game revenue, or by selling features during the game. (Fortnite is a free to play game) [1]
-- Mobile Gaming to be a $100 billion dollar market by 2021 [2]
-- PC Gaming to grow 4.2% from 2017 to 2021 [2]
-- Console Gaming to grow 4.1% [2]
+- Mobile Gaming to be a __$100 billion dollar market__ by 2021 [2]
+- PC Gaming to grow __4.2%__ from 2017 to 2021 [2]
+- Console Gaming to grow __4.1%__ [2]
 
 ## Gaming Market Breakdown
 
@@ -125,9 +171,7 @@ source: [SelectUSA.gov](https://www.selectusa.gov/media-entertainment-industry-u
 ![Gaming industry growth](https://newzoo.com/wp-content/uploads/2018/04/Global_Games_Market_2012-2021_per_Segment-1.png)
 ![Global gaming revenue statistics by country](https://newzoo.com/wp-content/uploads/2016/03/Global_Games_Market_per_Region_2018.png)
 
-### Mobile Gaming to Be a 100-Billion-Dollar Market by 2021
-
-In the span of a decade, mobile gaming will have grown from the smallest segment in 2012 to a 100-billion-dollar industry in 2021. Remarkably, the rise of mobile gaming has not significantly cannibalized revenues from PC or console gaming markets. In the coming years, mobile game revenue growth will continue to outpace the overall games market, growing to $106.4 billion in 2021. By then, smartphone and tablet games combined will generate 59% of revenues in the entire market.
+Source: [newzoo.com (April 2018)][2]
 
 [1]:https://www.cnbc.com/2018/07/18/video-game-industry-is-booming-with-continued-revenue.html
 [2]:https://newzoo.com/insights/articles/global-games-market-reaches-137-9-billion-in-2018-mobile-games-take-half/
